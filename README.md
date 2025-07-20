@@ -1,0 +1,2 @@
+# sampleGitProject
+PracticeProject for Git
